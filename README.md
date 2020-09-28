@@ -1,3 +1,3 @@
 # Portfolio-Optimization-Tool
 
-This is a tool using Modern Portfolio Theory to optimize Portfolio for Desired Stocks
+This is a tool using Modern Portfolio Theory to optimize Portfolios containing any Desired Stocks
